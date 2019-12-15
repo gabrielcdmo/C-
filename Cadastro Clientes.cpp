@@ -1,12 +1,9 @@
-//Aqui foi onde tudo começou! O meu primeiro algoritimo, e eu já prezava por organização em tela mesmo a interação sendo feita pelo 
-//console rs
-//Basicamente, o desafio era o seguinte: criar uma aplicação de registro e manutenção de clientes que armazenará 5 por vez em uma 
-//struct do tipo vetor!
 
 #include <stdio.h>
 #include <conio.h>
 #include <stdlib.h>
 #include <strings.h>
+
 
 void menu()
 {
